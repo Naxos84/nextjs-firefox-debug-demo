@@ -1,0 +1,9 @@
+/public
+/.next
+/coverage
+/dist
+*.json
+*.md
+*.sh
+*.log
+*.css
